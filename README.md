@@ -21,7 +21,7 @@
   <img src = "https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=Pandas&logoColor=61DAFB">
   <img src = "https://img.shields.io/badge/Numpy-20232A?style=for-the-badge&logo=Numpy&logoColor=61DAFB">
   <img src = "https://img.shields.io/badge/Pytorch-20232A?style=for-the-badge&logo=pytorch&logoColor=61DAFB">
-  <img src = "https://img.shields.io/badge/seaborn-20232A?style=for-the-badge&logo=Python&logoColor=61DAFB">
+  <img src = "https://img.shields.io/badge/scipy-20232A?style=for-the-badge&logo=scipy&logoColor=61DAFB">
   <img src = "https://img.shields.io/badge/mysql-20232A?style=for-the-badge&logo=mysql&logoColor=61DAFB">
   <img src = "https://img.shields.io/badge/Tableau-20232A?style=for-the-badge&logo=tableau&logoColor=61DAFB">
   <br>
