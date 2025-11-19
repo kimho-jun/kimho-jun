@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&color=FFFFFF&height=300&section=header&text=Welcom%20to-nl-JunD's%20Github&fontSize=70&fontColor=4682b4" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=FFFFFF&height=300&section=header&text=Welcom%20to-nl-JunD's%20Github&fontSize=70&fontColor=87cefe" />
 </div>
 
 
@@ -15,19 +15,18 @@
 </div>
 
 <br>
-  
+
 <h3 align="center">⚡Skills & Interested in⚡</h3>
 <div align="center">
-  <img src = "https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=Python&logoColor=61DAFB">
-  <img src = "https://img.shields.io/badge/Numpy-20232A?style=for-the-badge&logo=Python&logoColor=61DAFB">
-  <img src = "https://img.shields.io/badge/Pytorch-20232A?style=for-the-badge&logo=Python&logoColor=61DAFB">
-  <img src = "https://img.shields.io/badge/SQL-3498DB?style=for-the-badge&logo=DB&logoColor=61DAFB">
-  <img src = "https://img.shields.io/badge/Tableau-239120?style=for-the-badge&logo=DB&logoColor=61DAFB">
+  <img src = "https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=Pandas&logoColor=61DAFB">
+  <img src = "https://img.shields.io/badge/Numpy-20232A?style=for-the-badge&logo=Numpy&logoColor=61DAFB">
+  <img src = "https://img.shields.io/badge/Pytorch-20232A?style=for-the-badge&logo=pytorch&logoColor=61DAFB">
+  <img src = "https://img.shields.io/badge/seaborn-20232A?style=for-the-badge&logo=Python&logoColor=61DAFB">
+  <img src = "https://img.shields.io/badge/mysql-20232A?style=for-the-badge&logo=mysql&logoColor=61DAFB">
+  <img src = "https://img.shields.io/badge/Tableau-20232A?style=for-the-badge&logo=tableau&logoColor=61DAFB">
   <br>
-  <img src = "https://img.shields.io/badge/TEXT%20Embedding-F7DF1E?style=for-the-badge&logo=DB&logoColor=61DAFB">
-  <img src = "https://img.shields.io/badge/Machine_Learning-239120?style=for-the-badge&logo=DB&logoColor=61DAFB">
-  <img src = "https://img.shields.io/badge/Deep_learning-182738?style=for-the-badge&logo=DB&logoColor=61DAFB">
-  <img src = "https://img.shields.io/badge/LLM-239120?style=for-the-badge&logo=DB&logoColor=61DAFB">
+  <img src = "https://img.shields.io/badge/TEXT%20Embedding-4CC61D?style=for-the-badge&logo=google-chrome&logoColor=61DAFB">
+  <img src = "https://img.shields.io/badge/Machine_Learning-FE7D37?style=for-the-badge&logo=google-chrome&logoColor=61DAFB">
+  <img src = "https://img.shields.io/badge/Deep_learning-FE7D37?style=for-the-badge&logo=google-chrome&logoColor=61DAFB">
+  <img src = "https://img.shields.io/badge/LLM-3498DB?style=for-the-badge&logo=google-chrome&logoColor=61DAFB">
 </div>
-
-
