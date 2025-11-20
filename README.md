@@ -3,16 +3,29 @@
 </div>
 
 
-<h3 align="center">📫 Contact & Velog 📫</h3>
+<h3 align="center">📫 Contact Me 📫</h3>
 <div align="center">
   <a href="mailto:yjhut0721@gmail.com">
     <img
       src="https://img.shields.io/badge/yjhut0721@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="mailto:yjhut@naver.com">
+    <img
+      src="https://img.shields.io/badge/yjhut@naver.com-81c147?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>
+</div>
+
+<br>
+
+
+<h3 align="center">📖 Study log 📖</h3>
+<div align="center">
   <a href="https://velog.io/@yjhut/series">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
 </div>
+
+
 
 <br>
 
