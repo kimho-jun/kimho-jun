@@ -9,7 +9,7 @@
     <img
       src="https://img.shields.io/badge/yjhut0721@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://velog.io/@yjhut/posts">
+  <a href="https://velog.io/@yjhut/series">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
 </div>
