@@ -37,6 +37,7 @@
   <img src = "https://img.shields.io/badge/scipy-20232A?style=for-the-badge&logo=scipy&logoColor=61DAFB">
   <img src = "https://img.shields.io/badge/scikit%20learn-20232A?style=for-the-badge&logo=scikit-learn&logoColor=61DAFB">
   <img src = "https://img.shields.io/badge/mysql-20232A?style=for-the-badge&logo=mysql&logoColor=61DAFB">
+  <img src = "https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=61DAFB">
   <img src = "https://img.shields.io/badge/Tableau-20232A?style=for-the-badge&logo=tableau&logoColor=61DAFB">
   <br>
   <img src = "https://img.shields.io/badge/TEXT%20Embedding-4CC61D?style=for-the-badge&logo=google-chrome&logoColor=61DAFB">
