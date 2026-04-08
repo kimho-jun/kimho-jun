@@ -31,8 +31,8 @@
 
 <h3 align="center">⚡Skills & Interested in⚡</h3>
 <div align="center">
-  <img src = "https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=RAG&logoColor=61DAFB">
-  <img src = "https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=LangCchain&logoColor=61DAFB">
+  <img src = "https://img.shields.io/badge/RAG-20232A?style=for-the-badge&logo=RAG&logoColor=61DAFB">
+  <img src = "https://img.shields.io/badge/Langchain-20232A?style=for-the-badge&logo=Langchain&logoColor=61DAFB">
   <img src = "https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=Pandas&logoColor=61DAFB">
   <img src = "https://img.shields.io/badge/Numpy-20232A?style=for-the-badge&logo=Numpy&logoColor=61DAFB">
   <img src = "https://img.shields.io/badge/Pytorch-20232A?style=for-the-badge&logo=pytorch&logoColor=61DAFB">
